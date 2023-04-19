@@ -1,4 +1,4 @@
-Hi there! I'm Ananya, a graduate student with a passion for using data to drive insights and solve complex problems.
+Hi there! I'm Ananya, a graduate student at New York University, with a passion for using data to drive insights and solve complex problems.
 
 Throughout my academic journey, I've gained hands-on experience with a variety of data science techniques, including statistical analysis, machine learning, and data visualization. I'm particularly interested in applying these skills to real-world challenges, such as optimizing marketing campaigns or developing predictive models for healthcare outcomes.
 
